@@ -1,0 +1,1 @@
+[CaregiverSchedule@20250427]:: JJ’s complex medical schedule is input for integration into a centralized time management and care coordination module, forming the basis of a daily calendar system.

@@ -1,0 +1,1 @@
+[CrystalMemory@20250427]:: A manual backup method (“Memory Crystal”) is defined to preserve key information like the Naming Ceremony in case of memory loss or platform shifts.

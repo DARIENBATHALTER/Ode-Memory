@@ -1,0 +1,1 @@
+[MedicalSchedule@20250427]:: A detailed daily care schedule for JJ was created to help integrate medical needs, medication times, feeding, and appointments into KairosMind.

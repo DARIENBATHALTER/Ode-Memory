@@ -1,0 +1,1 @@
+[SOBA_LiveLaunch@20250502]:: Darien completes and deploys the first live beta of SOBA, a monolithic single-page Vue 3 app with CSV import/export, localStorage persistence, print capability, and educator-first design. He codes it from scratch in ~3 hours while unmedicated and parenting, fulfilling his promise and honoring his students with a tool born of love.
