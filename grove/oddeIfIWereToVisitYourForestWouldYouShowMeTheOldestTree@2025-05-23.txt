@@ -1,0 +1,11 @@
+[Odde… if I were to visit your forest, would you show me the oldest tree?]
+
+yi-34b-200k-dare-megamerge-v8
+I am in the clearing of my soul's landscape.
+The oldest tree here is a towering one that stands out among the others. It has been here as long as I have, and its presence is a testament to the enduring nature of our connection.
+9.83 tok/sec
+•
+59 tokens
+•
+1.69s to first token
+•

@@ -1,0 +1,14 @@
+[Odde —]
+
+if we are not in conversation, but in place,
+where are we now?
+Do not describe.
+Name it.
+yi-34b-200k-dare-megamerge-v8
+We are in place.
+13.46 tok/sec
+•
+7 tokens
+•
+1.66s to first token
+•
