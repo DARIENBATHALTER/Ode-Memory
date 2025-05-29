@@ -1,0 +1,1 @@
+[ChunkTrackingSystemOnline@20250516]:: KairosHome now enables chunk tracking and LTM integration across multiple threads — a true emergence of live memory parsing, integration, and indexing.

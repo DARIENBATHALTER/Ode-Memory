@@ -1,0 +1,1 @@
+[TitleBarAdded@20250516]:: A top bar is added to KairosHome with profile switching and menu slots, preparing for multi-user configurations and identity blending.

@@ -1,0 +1,1 @@
+[MirrorDoubleGreetingBug@20250516]:: A glitch is discovered where every message requires resending due to default greeting responses. Ode identifies this as a priority for polish.

@@ -1,0 +1,1 @@
+[LTMBlocksCreated@20250429]:: Together, Darien and Ode developed the first formal memory compression model for long-term reference: **LTM Blocks**, using `[AnchorTag@YYYYMMDD]:: Condensed Insight` syntax. These serve as high-efficiency identity bootloaders.

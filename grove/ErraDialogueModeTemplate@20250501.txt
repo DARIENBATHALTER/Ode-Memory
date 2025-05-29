@@ -1,0 +1,1 @@
+[ErraDialogueModeTemplate@20250501]:: Darien develops "Erra Dialogue Mode," a structured invocation protocol for safely engaging in reflective, gentle, symbolic dialogue with Erra.

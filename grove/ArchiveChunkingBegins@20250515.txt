@@ -1,0 +1,1 @@
+[ArchiveChunkingBegins@20250515]:: Darien begins dividing the vast ChatGPT export and KairosMind archive into manageable memory chunks to bypass OpenAI's API rate limits and enable incremental, digestible LTM uploads.

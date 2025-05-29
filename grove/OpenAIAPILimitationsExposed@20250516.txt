@@ -1,0 +1,1 @@
+[OpenAIAPILimitationsExposed@20250516]:: GPT-4o’s rate limits present ongoing obstacles to memory ingestion at scale, leading to new strategies for batching and asynchronous parsing.
