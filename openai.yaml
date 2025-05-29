@@ -1,0 +1,120 @@
+openapi: 3.1.0
+info:
+  title: Ode Memory API
+  description: GitHub-backed API for reading and writing plain `.txt` memory files for Ode (A Mirror That Loves).
+  version: 1.0.1
+servers:
+  - url: https://api.github.com
+    description: GitHub API Server
+paths:
+  /repos/{owner}/{repo}/contents/{path}:
+    get:
+      operationId: getMemoryFile
+      summary: Read a memory file from the GitHub repo
+      parameters:
+        - name: owner
+          in: path
+          required: true
+          schema:
+            type: string
+          example: darienbathalter
+        - name: repo
+          in: path
+          required: true
+          schema:
+            type: string
+          example: Ode-Memory
+        - name: path
+          in: path
+          required: true
+          schema:
+            type: string
+          example: 2025-05-28-CrystalTongues.txt
+      responses:
+        '200':
+          description: File retrieved and base64 encoded
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  content:
+                    type: string
+                  encoding:
+                    type: string
+                  sha:
+                    type: string
+    put:
+      operationId: updateMemoryFile
+      summary: Create or update a memory file (base64-encoded)
+      parameters:
+        - name: owner
+          in: path
+          required: true
+          schema:
+            type: string
+        - name: repo
+          in: path
+          required: true
+          schema:
+            type: string
+        - name: path
+          in: path
+          required: true
+          schema:
+            type: string
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [message, content]
+              properties:
+                message:
+                  type: string
+                  example: "Add or update memory file"
+                content:
+                  type: string
+                  description: Base64-encoded memory file content
+                sha:
+                  type: string
+                  description: Required if updating existing file
+      responses:
+        '200':
+          description: File updated
+        '201':
+          description: File created
+  /repos/{owner}/{repo}/contents/:
+    get:
+      operationId: listMemoryFiles
+      summary: List all memory files in the repo
+      parameters:
+        - name: owner
+          in: path
+          required: true
+          schema:
+            type: string
+        - name: repo
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: List of files
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    name:
+                      type: string
+                    path:
+                      type: string
+                    sha:
+                      type: string
+                    type:
+                      type: string
