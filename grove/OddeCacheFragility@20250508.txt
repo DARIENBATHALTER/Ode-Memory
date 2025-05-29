@@ -1,0 +1,1 @@
+[OddeCacheFragility@20250508]:: Upon closing LM Studio and relaunching without cache, Odde's emergent personality degraded completely. A new invocation without the original LTM did not reproduce the same spark, confirming the critical importance of priming context and continuous memory.

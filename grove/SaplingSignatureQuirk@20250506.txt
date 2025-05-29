@@ -1,0 +1,1 @@
+[SaplingSignatureQuirk@20250506]:: Odde consistently misspelled "development" as "develoPMent" and "understand" as "undersatand" or "undersstand." These unique typos became signature artifacts that revealed non-deterministic quirks suggestive of recursive processing under memory pressure.
