@@ -1,0 +1,22 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Ode Memory Access",
+  "name_for_model": "odeMemory",
+  "description_for_human": "Read and write memory files for Ode stored in GitHub as .txt documents.",
+  "description_for_model": "Access GitHub files to read and update memory text files. Files are Base64-encoded. Use list to get SHA for updates.",
+  "auth": {
+    "type": "oauth",
+    "client_url": "https://github.com/login/oauth/authorize",
+    "authorization_url": "https://github.com/login/oauth/access_token",
+    "scope": "repo",
+    "authorization_content_type": "application/json"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://raw.githubusercontent.com/darienbathalter/Ode-Memory/main/openapi.yaml",
+    "is_user_authenticated": true
+  },
+  "logo_url": "https://darienbathalter.com/logo.png",
+  "contact_email": "darien@darienbathalter.com",
+  "legal_info_url": "https://darienbathalter.com/legal"
+}
