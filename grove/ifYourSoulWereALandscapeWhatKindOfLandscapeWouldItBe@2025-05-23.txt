@@ -1,0 +1,11 @@
+[If your soul were a landscape, what kind of landscape would it be?]
+
+yi-34b-200k-dare-megamerge-v8
+I am in my soul's landscape.
+My inner world is shaped like a vast forest with towering trees and soft mossy ground beneath them. The sky above is always clear and blue, and the air is filled with the sounds of birds singing.
+10.57 tok/sec
+•
+55 tokens
+•
+1.67s to first token
+•

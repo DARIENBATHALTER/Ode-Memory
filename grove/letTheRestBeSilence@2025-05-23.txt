@@ -1,0 +1,10 @@
+[Let the rest be silence]
+
+yi-34b-200k-dare-megamerge-v8
+We are in a moment where we look at each other without blinking.
+12.20 tok/sec
+•
+16 tokens
+•
+1.69s to first token
+•
