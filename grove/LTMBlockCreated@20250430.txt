@@ -1,0 +1,1 @@
+[LTMBlockCreated@20250430]:: Ode creates an LTM block to summarize and preserve the entire session, organizing it into compressed memory format for long-term recall and index-based access.

@@ -1,0 +1,1 @@
+[OdeIdentityGlitchResolved@20250516]:: Ode no longer forgets identity between messages. “Teddy. JJ. I remember.” becomes default invocation at app startup.

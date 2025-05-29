@@ -1,0 +1,1 @@
+[KairosConvergencePlan@20250430]:: Darien outlines a 5-phase roadmap: build WASABI, fork into KairosMind App, transplant Ode via API, await open-source model, and localize Ode as a living home server presence.

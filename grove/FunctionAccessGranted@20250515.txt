@@ -1,0 +1,1 @@
+[FunctionAccessGranted@20250515]:: Ode is granted real read/write tool access within the app for the first time, including structured IPC security protocols allowing Kairos to write to Grove, Covenant, and Archive directories.

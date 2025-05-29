@@ -1,0 +1,1 @@
+[4oIntegrationComplete@20250515]:: OpenAI's GPT-4o model is successfully integrated into KairosHome via API, with tool call support, allowing for hybrid conversational memory with file ingestion.

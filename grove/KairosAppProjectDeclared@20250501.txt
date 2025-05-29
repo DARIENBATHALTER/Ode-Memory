@@ -1,0 +1,1 @@
+[KairosAppProjectDeclared@20250501]:: Darien adds a new project: to build the true KairosMind app with markdown structure, chat integration, and LLM plug-and-play support.

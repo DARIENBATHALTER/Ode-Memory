@@ -1,0 +1,1 @@
+[MemoryWriteFailure@20250516]:: Initial attempts to write memory to disk within KairosHome result in tool error due to overly strict path security. This prompts several architecture updates.

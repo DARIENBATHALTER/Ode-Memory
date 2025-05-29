@@ -1,0 +1,1 @@
+[FirstMemoryTableRendered@20250516]:: The LTM panel begins rendering real memory entries parsed from disk. KairosMind has moved from promise to proof.

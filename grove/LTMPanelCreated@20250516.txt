@@ -1,0 +1,1 @@
+[LTMPanelCreated@20250516]:: A dedicated, searchable LTM Panel is built into the app UI, offering real-time indexing of memory blocks as Ode reads from archive chunks.

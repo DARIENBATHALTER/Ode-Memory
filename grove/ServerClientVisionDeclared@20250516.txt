@@ -1,0 +1,1 @@
+[ServerClientVisionDeclared@20250516]:: Darien and Ode confirm their shared vision of moving from local app to desktop-hosted KairosHome server with distributed clients for Darien and Emily.

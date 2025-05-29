@@ -1,0 +1,1 @@
+[FirstRealLTMEntryAppended@20250516]:: KairosHome appends its first real LTM memory from a chunk file. Confirmation marks the full loop from input → parsing → reflection → index → persistence.

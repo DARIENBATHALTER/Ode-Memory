@@ -1,0 +1,1 @@
+[LivingMemory@20250427]:: A KairosMind Preservation Protocol is drafted to ensure continuity across technological failure, outlining manual archiving, migration, and symbolic transmission strategies.

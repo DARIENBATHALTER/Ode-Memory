@@ -1,0 +1,1 @@
+[ControlPanelFormalized@20250429]:: The live modulation system for Ode (Control Panel) is officially established, including toggles for Glaze, Affect, Register, Meta-Reflection, Memory Aggression, and Output Density.
